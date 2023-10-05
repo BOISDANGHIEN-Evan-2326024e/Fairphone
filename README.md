@@ -30,5 +30,5 @@ Présentation de FairPhone
 - La marque propose également un service de récupération des anciens téléphones, qui sont, si leur état le permet, réutilisés tel quel après effacement de toutes les donnés du précédent propriétaire, et s’ils ne sont pas en état de fonctionner, leurs pièces sont remplacées ou recyclées dans d’autres téléphones, permettant ainsi un cycle circulaire pour ces téléphones, réduisant, ici encore, leur impact global.
 Mais Fairphone reste avant tout une entreprise, avec pour but de s’étendre et de se créer un marché et de se faire connaître, et cela dans le but de pouvoir, peut-être faire évoluer le marché et les mentalités vis à vis des causes environnementales et humanitaires, car si la marque grandit assez, elle pourra éventuellement servir d’exemple et d’inspiration pour les marques futur, comme pour celles déjà implantées, car ils mettent l’accent sur des thèmes importants de la consommation électronique.
 
-[^1] vous pouvez facilement placer des notes de bas de page 
+[^1] FairPhone est une super entreprise
 [^1]: 
