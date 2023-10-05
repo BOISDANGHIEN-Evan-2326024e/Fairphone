@@ -17,7 +17,9 @@ Présentation de FairPhone
 	
 
 
-- Lorsque l’entreprise a été fondée en 2013, les créateurs avaient dans l’idée de créer des **_téléphones durables_**, mais également équitables. En effet, leur but est de limiter la surconsommation du monde de l’électronique, et ainsi de proposer une alternative plus économique mais aussi plus écologique aux marques qui poussent à l’achat.
+- Lorsque l’entreprise a été fondée en 2013, les créateurs avaient dans l’idée de créer des **_téléphones durables_**, mais également équitables. En effet,
+  1. leur but est de limiter la surconsommation du monde de l’électronique
+  2. proposer une alternative plus économique mais aussi plus écologique aux marques qui poussent à l’achat.
 
 - Mais leur objectif n’est pas que écologique, car il est également humanitaire. L’entreprise, recyclant des téléphones usagés, utilise ainsi moins de terres rares, habituellement extraites dans des pays du tiers monde, où les travailleurs sont sous payés et travaillent dans des conditions dangereuses. Mais cela n’empêche pas l’entreprise de nécessiter une extraction de ces matériaux, mais, contrairement à d’autres entreprises qui payent le moins possible afin de faire plus de bénéfices, Fairphone tient à rémunérer équitablement chaque employé de la chaîne de production afin que ceux-ci puissent travailler, et vivre dans des conditions décentes. Ils tracent également les sources des matériaux utilisés et font en sorte d’acheter des matériaux venant de mines artisanales et à petite échelle, ce qui permet de participer à l’économie locale de ces lieux d’extraction. Fairphone fait également partie du CEPN (Clean Electronics Production Network), un regroupement d’organisations qui vise à empêcher l’exposition des travailleurs à des produits chimiques dans la chaîne de production d’électroniques.
   
