@@ -10,7 +10,7 @@ Présentation de FairPhone
 
 - Les téléphones sont omniprésents dans la société d'aujourd'hui et leur impact environnemental est très élevé, donc l’idée d’en créer un accessible au réparage, au recyclage avec une production verte(contrairement à Apple et Samsung qui sont les plus connus) est une initiative innovante pour la planète. Tout en reconnaissant que leur  téléphone est toujours loin d’être équitable. Le Fairphone est toujours dans cette optique et cherche à créer un impact social et à faire réagir le plus de gens possible. Avec tous ces objectifs écologiques mondiaux, le chemin est loin d'être facile vers des produits plus verts et produits dans de bonnes conditions. Cette entreprise est pour nous un reflet du courage de marcher sur ce long et sinueux chemin et en voici les différents aspects que l'on en retient.
 
-[Bonjour](/b23012269/Téléchargements/Fairphone.png "Fairphone").
+![Bonjour](/b23012269/Téléchargements/Fairphone.png "Fairphone").
 
 ### Objectif initial du projet : Ambition, rentabilité
 
