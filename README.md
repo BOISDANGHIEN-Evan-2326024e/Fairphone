@@ -1,7 +1,7 @@
 # Fairphone
 Présentation de FairPhone
 
-##Présentation du terme de “Greentech”, du projet Fairphone ainsi que des fondateurs
+## Présentation du terme de “Greentech”, du projet Fairphone ainsi que des fondateurs
 
 Bonjour, à l’heure actuelle nos **appareils connectés** du quotidien évoluent de plus en plus et ont un impact écologique qui est de plus en plus élevé, autant sur leur production que sur leur utilisation. Certaines entreprises ont décidé de produire de manière écologique et équitable mais aussi de créer des appareils qui émettent beaucoup moins. On appelle cela la Greentech. À l’heure actuelle où l'enjeu écologique n’est pas des moindres, ces entreprises au-delà de leurs efforts, montrent un véritable exemple à suivre. Une implication de n’importe quelle grande entreprise ou une explosion des ventes de la **Greentech** permettrait de donner un message fort et un nouvel argument de vente qui lancerait de bonnes **initiatives écologiques**.
 
@@ -12,7 +12,7 @@ Les téléphones sont omniprésents dans la société d'aujourd'hui et leur impa
 
        
 
-###Objectif initial du projet : Ambition, rentabilité
+### Objectif initial du projet : Ambition, rentabilité
 
 	
 
