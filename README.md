@@ -36,7 +36,7 @@ le site de Fairphone((https://www.fairphone.com/fr/))
 
 Tout les téléphones Fairphoe et un comparaison : 
 
-| Modele            Prix          | Longévite |
+| Modele      |      Prix          | Longévite |
 | Fairphone 1 | 310 €  | 4 ans |
 | Fairphone 2 |  399 €      |  8 ans |
 | Fairphone 3  | 655 €           |   Toujours actif |
