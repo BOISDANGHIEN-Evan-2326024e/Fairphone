@@ -5,6 +5,9 @@ Présentation de FairPhone
 
 - Bonjour, à l’heure actuelle nos **appareils connectés** du quotidien évoluent de plus en plus et ont un impact écologique qui est de plus en plus élevé, autant sur leur production que sur leur utilisation. Certaines entreprises ont décidé de produire de manière écologique et équitable mais aussi de créer des appareils qui émettent beaucoup moins. On appelle cela la Greentech. À l’heure actuelle où l'enjeu écologique n’est pas des moindres, ces entreprises au-delà de leurs efforts, montrent un véritable exemple à suivre. Une implication de n’importe quelle grande entreprise ou une explosion des ventes de la **Greentech** permettrait de donner un message fort et un nouvel argument de vente qui lancerait de bonnes **initiatives écologiques**.
 
+Le patron de Fairphone a dit : 
+> Fairphone sont les meilleurs téléphones écologiques !
+
 - Parmi celles-ci, une entreprise qui a été fondée en 2013, **_“Fairphone”_**(Téléphone juste) qui fait partie de ce mouvement, a su se démarquer à nos yeux et produit comme son nom l’indique des téléphones. “Fairphone” a 10 ans d’expérience cette année et donc surement des résultats et des statistiques intéressantes sur la réussite ou non de leur projet Greentech”. À l’initiative de ce projet le fondateur :
 - Le fondateur principal Bas van Abel né le 18 août 1977 à Nimègue au Pays-Bas et est celui qui est à l’origine de l’idée du téléphone responsable en septembre 2009. Il a donc créé l’entreprise en janvier 2013 à 35 ans. Bas van Abel est aussi designer et ingénieur électrique, ce qui l’a aidé à la création du produit. “Fairphone” à l’heure actuelle se concentre sur les conditions des extractions minières, l’accessibilité et la possibilité de réparer leurs produits, le bien-être des travailleurs dans leurs usines, mais aussi sur le recyclage des produits mais encore sur l'investissement dans des économies locales. 
 
@@ -15,7 +18,6 @@ Présentation de FairPhone
 ### Objectif initial du projet : Ambition, rentabilité
 
 	
-
 
 - Lorsque l’entreprise a été fondée en 2013, les créateurs avaient dans l’idée de créer des **_téléphones durables_**, mais également équitables. En effet,
   1. leur but est de limiter la surconsommation du monde de l’électronique
@@ -29,6 +31,19 @@ Présentation de FairPhone
   
 - La marque propose également un service de récupération des anciens téléphones, qui sont, si leur état le permet, réutilisés tel quel après effacement de toutes les donnés du précédent propriétaire, et s’ils ne sont pas en état de fonctionner, leurs pièces sont remplacées ou recyclées dans d’autres téléphones, permettant ainsi un cycle circulaire pour ces téléphones, réduisant, ici encore, leur impact global.
 Mais Fairphone reste avant tout une entreprise, avec pour but de s’étendre et de se créer un marché et de se faire connaître, et cela dans le but de pouvoir, peut-être faire évoluer le marché et les mentalités vis à vis des causes environnementales et humanitaires, car si la marque grandit assez, elle pourra éventuellement servir d’exemple et d’inspiration pour les marques futur, comme pour celles déjà implantées, car ils mettent l’accent sur des thèmes importants de la consommation électronique.
+
+le site de Fairphone((https://www.fairphone.com/fr/))
+
+Tout les téléphones Fairphoe et un comparaison : 
+
+| Modele            Prix          | Longévite |
+| Fairphone 1 | 310 €  | 4 ans |
+| Fairphone 2 |  399 €      |  8 ans |
+| Fairphone 3  | 655 €           |   Toujours actif |
+| Fairphone 4  | 529 €         |    Toujours actif  |
+| Fairphone 5  | 699 €          |    Toujours actif  |
+
+
 
 [^1] FairPhone est une super entreprise
 [^1]: 
