@@ -34,9 +34,9 @@ Mais Fairphone reste avant tout une entreprise, avec pour but de s’étendre et
 
 le site de Fairphone((https://www.fairphone.com/fr/))
 
-Tout les téléphones Fairphoe et un comparaison : 
+Tout les modèles de Fairphone et une comparaison : 
 
-| Modele      |      Prix          | Longévite |
+| Modèle      |      Prix          | Longévite |
 | :--------------- |:---------------:| -----:|
 | Fairphone 1 | 310 €  | 4 ans |
 | Fairphone 2 |  399 €      |  8 ans |
