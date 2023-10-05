@@ -44,7 +44,5 @@ Tout les modèles de Fairphone et une comparaison :
 | Fairphone 4  | 529 €         |    Toujours actif  |
 | Fairphone 5  | 699 €          |    Toujours actif  |
 
-
-
 [^1] FairPhone est une super entreprise
 [^1]: 
