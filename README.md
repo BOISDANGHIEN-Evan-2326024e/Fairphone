@@ -3,7 +3,7 @@ Présentation de FairPhone
 
 ## Présentation du terme de “Greentech”, du projet Fairphone ainsi que des fondateurs
 
-- Bonjour, à l’heure actuelle nos **appareils connectés** du quotidien évoluent de plus en plus et ont un impact écologique qui est de plus en plus élevé, autant sur leur production que sur leur utilisation. Certaines entreprises ont décidé de produire de manière écologique et équitable mais aussi de créer des appareils qui émettent beaucoup moins. On appelle cela la Greentech. À l’heure actuelle où l'enjeu écologique n’est pas des moindres, ces entreprises au-delà de leurs efforts, montrent un véritable exemple à suivre. Une implication de n’importe quelle grande entreprise ou une explosion des ventes de la **Greentech** permettrait de donner un message fort et un nouvel argument de vente qui lancerait de bonnes **initiatives écologiques**.
+- Bonjour, à l’heure actuelle nos **appareils connectés** du quotidien évoluent de plus en plus et ont un impact écologique qui est de plus en plus élevé, autant sur leur production que sur leur utilisation. Certaines entreprises ont décidé de produire de manière écologique et équitable mais aussi de créer des appareils qui émettent beaucoup moins. On appelle cela la Greentech. À l’heure actuelle où **l'enjeu écologique** n’est pas des moindres, ces entreprises au-delà de leurs efforts, montrent un véritable exemple à suivre. Une implication de n’importe quelle grande entreprise ou une explosion des ventes de la **Greentech** permettrait de donner un message fort et un nouvel argument de vente qui lancerait de bonnes **initiatives écologiques**.
 
 Le patron de Fairphone a dit : 
 > Fairphone sont les meilleurs téléphones écologiques !
@@ -15,7 +15,7 @@ Le patron de Fairphone a dit :
 
 ![Cover](https://github.com/BOISDANGHIEN-Evan-2326024e/Fairphone/blob/main/Fairphone.png)
 
-### Objectif initial du projet : Ambition, rentabilité
+### **Objectif initial du projet** : Ambition, rentabilité
 
 	
 
@@ -23,13 +23,13 @@ Le patron de Fairphone a dit :
   1. leur but est de limiter la surconsommation du monde de l’électronique
   2. proposer une alternative plus économique mais aussi plus écologique aux marques qui poussent à l’achat.
 
-- Mais leur objectif n’est pas que écologique, car il est également humanitaire. L’entreprise, recyclant des téléphones usagés, utilise ainsi moins de terres rares, habituellement extraites dans des pays du tiers monde, où les travailleurs sont sous payés et travaillent dans des conditions dangereuses. Mais cela n’empêche pas l’entreprise de nécessiter une extraction de ces matériaux, mais, contrairement à d’autres entreprises qui payent le moins possible afin de faire plus de bénéfices, Fairphone tient à rémunérer équitablement chaque employé de la chaîne de production afin que ceux-ci puissent travailler, et vivre dans des conditions décentes. Ils tracent également les sources des matériaux utilisés et font en sorte d’acheter des matériaux venant de mines artisanales et à petite échelle, ce qui permet de participer à l’économie locale de ces lieux d’extraction. Fairphone fait également partie du CEPN (Clean Electronics Production Network), un regroupement d’organisations qui vise à empêcher l’exposition des travailleurs à des produits chimiques dans la chaîne de production d’électroniques.
+- Mais leur objectif n’est pas que écologique, car il est également *humanitaire*. L’entreprise, recyclant des téléphones usagés, utilise ainsi moins de terres rares, habituellement extraites dans des pays du tiers monde, où les travailleurs sont sous payés et travaillent dans des conditions dangereuses. Mais cela n’empêche pas l’entreprise de nécessiter une extraction de ces matériaux, mais, contrairement à d’autres **entreprises** qui payent le moins possible afin de faire plus de bénéfices, Fairphone tient à rémunérer équitablement chaque employé de la chaîne de production afin que ceux-ci puissent travailler, et vivre dans des conditions décentes. Ils tracent également les sources des matériaux utilisés et font en sorte d’acheter des matériaux venant de mines artisanales et à petite échelle, ce qui permet de participer à l’économie locale de ces lieux d’extraction. Fairphone fait également partie du ***CEPN*** (Clean Electronics Production Network), un regroupement d’organisations qui vise à empêcher l’exposition des travailleurs à des produits chimiques dans la chaîne de production d’électroniques.
   
 - Quant aux téléphones en eux-même, ils sont fait pour pouvoir être réparés par l’utilisateur lui-même sans devoir le changer ou passer par un service de réparation, les pièces sont achetables sur le site et leur remplacement est simple et intuitif, limitant, ici aussi, la consommation excessive d’électronique et/ou de déplacements supplémentaire (ex : envoi au service de réparation de la marque), contrairement à la plupart des grandes marques de téléphones qui cherchent le monopole sur l'entretien de leurs appareils.
   
 - Tout ceci permet aux clients, qui auraient peut-être jeté leur téléphone pour en racheter un nouveau, lui garantissant une vie plus longue, de pouvoir le réparer à moindre coût, d’un point de vue financier comme environnemental et humanitaire.
   
-- La marque propose également un service de récupération des anciens téléphones, qui sont, si leur état le permet, réutilisés tel quel après effacement de toutes les donnés du précédent propriétaire, et s’ils ne sont pas en état de fonctionner, leurs pièces sont remplacées ou recyclées dans d’autres téléphones, permettant ainsi un cycle circulaire pour ces téléphones, réduisant, ici encore, leur impact global.
+- La **marque** propose également un service de récupération des anciens téléphones, qui sont, si leur état le permet, réutilisés tel quel après effacement de toutes les donnés du précédent propriétaire, et s’ils ne sont pas en état de fonctionner, leurs pièces sont remplacées ou recyclées dans d’autres téléphones, permettant ainsi un cycle circulaire pour ces téléphones, réduisant, ici encore, leur impact global.
 Mais Fairphone reste avant tout une entreprise, avec pour but de s’étendre et de se créer un marché et de se faire connaître, et cela dans le but de pouvoir, peut-être faire évoluer le marché et les mentalités vis à vis des causes environnementales et humanitaires, car si la marque grandit assez, elle pourra éventuellement servir d’exemple et d’inspiration pour les marques futur, comme pour celles déjà implantées, car ils mettent l’accent sur des thèmes importants de la consommation électronique.
 
 le site de Fairphone((https://www.fairphone.com/fr/))
